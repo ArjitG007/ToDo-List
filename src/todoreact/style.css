@@ -16,12 +16,14 @@ html {
   background: #ff9800;
   display: flex;
   justify-content: center;
-  /* align-items: center; */
+  min-width: 450px;
 }
 
 .child-div {
   text-align: center;
+  margin: auto;
   margin-top: 12rem;
+  margin-left: 37px;
 }
 
 .child-div figure img {
